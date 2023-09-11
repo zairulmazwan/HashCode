@@ -1,0 +1,15 @@
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/obj/Debug/net7.0/HashCode.csproj.AssemblyReference.cache
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/obj/Debug/net7.0/HashCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/obj/Debug/net7.0/HashCode.AssemblyInfoInputs.cache
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/obj/Debug/net7.0/HashCode.AssemblyInfo.cs
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/obj/Debug/net7.0/HashCode.csproj.CoreCompileInputs.cache
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/bin/Debug/net7.0/HashCode
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/bin/Debug/net7.0/HashCode.deps.json
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/bin/Debug/net7.0/HashCode.runtimeconfig.json
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/bin/Debug/net7.0/HashCode.dll
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/bin/Debug/net7.0/HashCode.pdb
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/obj/Debug/net7.0/HashCode.dll
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/obj/Debug/net7.0/refint/HashCode.dll
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/obj/Debug/net7.0/HashCode.pdb
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/obj/Debug/net7.0/HashCode.genruntimeconfig.cache
+/Users/zairulmazwan/Dotnet/HashCode/HashCode/obj/Debug/net7.0/ref/HashCode.dll
